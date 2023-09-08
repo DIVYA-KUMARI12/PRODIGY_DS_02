@@ -17,7 +17,7 @@ In the data cleaning phase, we performed the following operations:
 - Handling missing values:
 - Age: Missing values were replaced with the median age.
 - Embarked: Missing values were replaced with the mode (most common value).
-- 
+  
 # Exploratory Data Analysis (EDA)
 ## Summary Statistics
 We displayed the summary statistics of the dataset using df.describe().
