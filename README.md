@@ -1,5 +1,5 @@
 # PRODIGY_DS_02
-Perform data Cleaning and (EDA) on a dataset, Titanic_Dataset from Kaggle. Explore the relatonships between variables and identify patterns and trends in the data.
+Perform data Cleaning and (EDA) on a dataset, Titanic_Dataset from Kaggle. Explore the relationships between variables and identify patterns and trends in the data.
 # Titanic Dataset Analysis
 This project involves exploring the Titanic dataset using Python and various data analysis libraries, such as pandas, numpy, matplotlib, and seaborn. The Titanic dataset contains information about passengers on board the Titanic and whether they survived or not.
 
